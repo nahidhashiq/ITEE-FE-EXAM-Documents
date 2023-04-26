@@ -3,8 +3,15 @@
 # Management & Strategy Part(50-80)
 # 2019 APRIL Exam Questions & Solutions 
 
+**Q50**.
 
-Q54. Which of the following is an appropriate cost estimation technique that estimates the cost 
+**Q51**.
+
+**Q52**.
+
+**Q53**.
+
+**Q54**. Which of the following is an appropriate cost estimation technique that estimates the cost 
 of an activity or project using the historical data from a similar project? 
 
 a) Analogous estimating 
@@ -27,4 +34,5 @@ and various coefficients are determined
 and the mode (average) value are used
 
 **Reserve analysis**: estimate in which a reserve (i.e., buffer) is provided beforehand
+
 Answer: C 
