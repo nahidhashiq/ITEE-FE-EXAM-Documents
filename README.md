@@ -48,6 +48,7 @@ and the mode (average) value are used
 below?
 
 
+![Capture](https://user-images.githubusercontent.com/125079085/234668204-846d95ce-9056-4eca-88b5-8310cb980245.PNG)
 
 
 a) A -> B -> E -> I -> L b) A -> C -> D -> E -> H -> K
