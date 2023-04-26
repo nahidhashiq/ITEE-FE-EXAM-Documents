@@ -163,3 +163,24 @@ recurrence of the incident.
 
  **Answer: A** 
 
+**Q58.** Among the structures and the characteristics of a service desk organization, which of the 
+following is a description of a local service desk? 
+
+a) By locating a service desk near the users, it is possible to provide support for users who 
+speak different languages or come from different cultures, and to provide support for 
+VIPs by dedicated staff. 
+
+b) By using communication technology, services can be provided as if they were provided 
+from a single service desk, even when service staff are dispersed across multiple regions 
+or departments. 
+
+c) Service staff can efficiently be deployed, or a large number of calls can be handled by 
+concentrating service desks at a single site or at limited locations. 
+
+d) Well-controlled services can be provided by centrally integrating and managing all staff, 
+including those at dispersed locations. 
+
+
+[Read Article](https://pinkelephant.co.uk/it-service-desk/local-centralised-virtual-service-desks/)
+
+ **Answer: A** 
