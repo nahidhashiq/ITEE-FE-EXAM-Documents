@@ -22,7 +22,10 @@ c) Function point method
 
 d) Parametric estimating
 
-Estimate of activity durations
+**Estimate of activity durations**
+
+[Related Article](https://www.northeastern.edu/graduate/blog/cost-estimation-in-project-management/ )
+
 
 **Analogous estimate**: estimate on the basis of the performance of a similar project in 
 the past.
