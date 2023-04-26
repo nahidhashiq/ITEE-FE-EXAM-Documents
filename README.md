@@ -12,9 +12,9 @@
 
 **Q52**.
 
-**Q53**.
 
-**Q54**. Which of the following is an appropriate cost estimation technique that estimates the cost 
+
+**Q53**. Which of the following is an appropriate cost estimation technique that estimates the cost 
 of an activity or project using the historical data from a similar project? 
 
 a) Analogous estimating 
@@ -73,4 +73,38 @@ The Critical Path Method (CPM) is a simple but powerful technique for analyzing,
  
  **Answer: D** 
  
+ 
+ **Q55.** In order to analyze the trend of issues that occur in a project, the number of issues by 
+management item, such as the stakeholders, cost, schedule, quality, etc., are arranged in 
+order starting with the highest number of issues in the form of a bar graph, and a diagram is 
+prepared in which the number of issues accumulated in this order are superimposed in the 
+form of a line graph. Which of the following is this diagram? 
+
+a) Cause and effect diagram
+
+b) Control chart 
+
+c) Pareto diagram 
+
+d) Scatter diagram 
+
+**Cause and Effect diagram**
+
+A cause-effect diagram is a visual tool used to logically organize possible causes for a specific problem or effect by graphically displaying them in increasing detail, suggesting causal relationships among theories. A popular type is also referred to as a fishbone or Ishikawa diagram.
+
+[Read Article](https://www.juran.com/blog/the-ultimate-guide-to-cause-and-effect-diagrams/)
+
+**Pareto chart**
+
+This is a diagram that combines a bar graph and line graph to enable control and analysis by viewing the 
+cumulative total percentages of the whole. Specifically, a bar graph is drawn with bars in descending orders 
+by quantity, and the cumulative total percentage of the whole for each bar is represented with a line graph. 
+This is used in situations including ABC analysis, which clarifies key control items.
+
+**Control Chart**
+
+
+**Scatter Diagram**
+
+ **Answer: C** 
  
