@@ -101,10 +101,20 @@ cumulative total percentages of the whole. Specifically, a bar graph is drawn wi
 by quantity, and the cumulative total percentage of the whole for each bar is represented with a line graph. 
 This is used in situations including ABC analysis, which clarifies key control items.
 
+[Read Article](https://byjus.com/maths/pareto-chart/)
+
 **Control Chart**
+
+The control chart is a graph used to study how a process changes over time. Data are plotted in time order. A control chart always has a central line for the average, an upper line for the upper control limit, and a lower line for the lower control limit. These lines are determined from historical data
+
+[Read Article](https://byjus.com/maths/control-charts/)
 
 
 **Scatter Diagram**
+
+A scatter chart, also called a scatter plot, is a chart that shows the relationship between two variables. They are an incredibly powerful chart type, allowing viewers to immediately understand a relationship or trend, which would be impossible to see in almost any other form.
+
+[Read Article](https://www.tibco.com/reference-center/what-is-a-scatter-chart)
 
  **Answer: C** 
  
