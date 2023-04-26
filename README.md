@@ -141,3 +141,25 @@ Hints: Downtime: 1-99% = 0.01. Maximum downtime: 30days x 16 hours per-day x 0.0
 
 
  **Answer: C** 
+ 
+ 
+ **Q57.** In IT service management, which of the following is a problem management activity that 
+is performed proactively?
+
+a) Analyzing the occurrence trend of incidents and proposing measures that prevent an 
+incident from occurring in the future 
+
+b) Classifying problems that have been detected and recorded, and setting the response 
+priority 
+
+c) Evaluating the effectiveness of a resolution to a critical problem 
+
+d) Monitoring whether an incident occurs again or not for a certain period of time after the 
+problem is resolved
+
+In problem management, the service provider identifies the root cause of the problem 
+that leads to an incident and proposes fundamental resolution for preventing 
+recurrence of the incident.
+
+ **Answer: A** 
+
