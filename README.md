@@ -51,8 +51,26 @@ below?
 ![Capture](https://user-images.githubusercontent.com/125079085/234668204-846d95ce-9056-4eca-88b5-8310cb980245.PNG)
 
 
-a) A -> B -> E -> I -> L b) A -> C -> D -> E -> H -> K
-c) A -> C -> F -> I -> L d) A -> C -> G -> J -> L
+a) A -> B -> E -> I -> L 
 
-**Answer: D** 
+b) A -> C -> D -> E -> H -> K
 
+c) A -> C -> F -> I -> L 
+
+d) A -> C -> G -> J -> L
+
+****
+
+
+
+**Critical Path Management **
+
+[Related Article]( https://www.workamajig.com/blog/critical-path-method)
+
+The Critical Path Method (CPM) is a simple but powerful technique for analyzing, planning, and scheduling large, complex projects. It is used to determine a project’s critical path—the longest sequence of tasks that must be finished for the entire project to be complete. 
+
+ CPM, also known as Critical Path Analysis (CPA), identifies dependencies between tasks, and shows which tasks are critical to a project. 
+ 
+ **Answer: D** 
+ 
+ 
