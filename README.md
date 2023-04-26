@@ -41,4 +41,17 @@ and the mode (average) value are used
 
 **Reserve analysis**: estimate in which a reserve (i.e., buffer) is provided beforehand
 
-Answer: C 
+**Answer: C** 
+
+
+**Q54.** Which of the following is the critical path of the project activities shown in the figure 
+below?
+
+
+
+
+a) A -> B -> E -> I -> L b) A -> C -> D -> E -> H -> K
+c) A -> C -> F -> I -> L d) A -> C -> G -> J -> L
+
+**Answer: D** 
+
