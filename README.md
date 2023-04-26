@@ -1,7 +1,10 @@
 
 # AM QUESTIONS
 # Management & Strategy Part(50-80)
-# 2019 APRIL Exam Questions & Solutions 
+# 2019 APRIL Exam Questions & Solutions
+
+
+# 2019 OCTOBER Exam Questions & Solutions
 
 **Q50**.
 
