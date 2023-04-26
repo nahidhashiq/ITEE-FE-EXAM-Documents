@@ -108,3 +108,26 @@ This is used in situations including ABC analysis, which clarifies key control i
 
  **Answer: C** 
  
+
+**Q56.** IT services are provided under the following conditions in the SLA. What is the 
+maximum number of hours of downtime in a month that can satisfy the SLA? 
+[Conditions of the SLA] 
+
+The number of business days per month is 30. 
+
+The service hours are from 7 AM to 11PM o'clock on a business day. 
+
+The required availability is 99% or more. 
+
+Other required time, such as maintenance time, can be ignored. 
+
+a) 1.2  b) 3.0  c) 4.8  d) 7.2
+
+A service-level agreement (SLA) is a contract between a service provider and its customers that documents what services the provider will furnish and defines the service standards the provider is obligated to meet. A service-level commitment (SLC) is a broader and more generalized form of an SLA.
+
+[Read Article](https://www.cio.com/article/274740/outsourcing-sla-definitions-and-solutions.html)
+
+Hints: Downtime: 1-99% = 0.01. Maximum downtime: 30days x 16 hours per-day x 0.01 = 
+
+
+ **Answer: C** 
