@@ -262,6 +262,8 @@ Through sharing and management of information with related departments and other
 companies, the SCM system helps achieve total optimization of the business process (e.g.,
 shortening the time for delivery, reducing dead stock)
 
+![Screenshot 2023-04-29 033123](https://user-images.githubusercontent.com/125079085/235257862-c0f5d514-8339-4895-8bb7-a8617a3c9f48.png)
+
 [Read Article](https://www.investopedia.com/terms/s/scm.asp)
 
 **Answer: D**
