@@ -309,3 +309,42 @@ handling of queries and claims, based on a customer database
 **Answer: C**
 
 
+**Q65.** Which of the following is an explanation of SaaS?
+
+a) It is a service where the user uses the functions of application software via the Internet 
+only when necessary. 
+
+b) It is a software package for performing integrated management of mission-critical 
+business operations in order to effectively employ the management resources of a 
+company.
+
+c) It refers to a document of consent concerning the content of service quality between the 
+ordering company and the service provider. 
+
+d) It refers to a far-reaching revision of the existing organization and business processes, 
+and the redesigning of duties, business flow, management mechanism, and information 
+systems
+
+[Read Article](https://www.investopedia.com/terms/s/software-as-a-service-saas.asp)
+
+**SaaS (Software as a Service)**
+• This is a type of service that provides software components (i.e., information system 
+functions) via the Internet. It is possible to use only the necessary functions of software 
+when they are necessary.
+
+**PaaS (Platform as a Service)**
+• This is a type of service that provides a platform for application execution via the 
+Internet. The provider provides a virtualized application server on which users deploy 
+and operate their own application.
+
+**IaaS (Infrastructure as a Service)**
+• This is a type of service that provides infrastructure via the Internet. The provider does 
+not provide software. It provides only a virtualized server on which the user installs the 
+necessary OS, and so on.
+
+**DaaS (Desktop as a Service)**
+• This is a type of service that provides a desktop environment for a terminal via the 
+Internet. There is no OS or application on the client (i.e., thin client), and a virtualized 
+desktop environment on cloud infrastructure is used over the Internet
+
+**Answer: A**
