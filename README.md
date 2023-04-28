@@ -267,3 +267,19 @@ shortening the time for delivery, reducing dead stock)
 [Read Article](https://www.investopedia.com/terms/s/scm.asp)
 
 **Answer: D**
+
+**Q63.** Concerning computerization costs, which of the following is the cost that indicates the 
+running cost? 
+
+a) The consulting cost of information systems strategy planning
+
+b) The cost of system engineering for performance requirements definition
+
+c) The installation cost of software packages 
+
+d) The maintenance cost of information-processing equipment, such as a server
+
+Hint: The running costs of a business are the amount of money that is regularly 
+spent on things such as salaries, heating, lighting, and rent.
+
+**Answer: D**
