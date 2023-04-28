@@ -1,7 +1,7 @@
-
+# 2019 APRIL Exam Questions & Solutions
 # AM QUESTIONS
 # Management & Strategy Part(50-80)
-# 2019 APRIL Exam Questions & Solutions
+
 
 
 # 2019 OCTOBER Exam Questions & Solutions
@@ -203,3 +203,65 @@ on the basis of his or her past experience.
 [Read Article](https://www.yourarticlelibrary.com/information-technology/process-of-information-system-audit-4-steps/10494)
 
 **Answer: C**
+
+**Q60.** Among the implementation structures of a system audit, which of the following is the 
+most important to avoid from the standpoint of the independence of a system auditor?
+
+a) Mr. A of the general affairs department, who was appointed as a member of the audit 
+team, audits the status of entrance and exit control for the general affairs department 
+together with other team members. 
+
+b) Mr. B of the audit department audits the status of personal information management by 
+an external contractor to whom his company outsources business operations that deal 
+with personal information. 
+
+c) Mr. C, who was transferred to the audit department five (5) years ago from a 
+development manager position in the information system department, audits the status of 
+Internet use in the marketing department. 
+
+d) Mr. D of the legal department cooperates with an auditor in an audit of the validity of an 
+outsourcing contract in response to a request from the audit department. 
+
+**Answer: A**
+
+
+**Q61.** In an information security audit, which of the following is a check item for confirming 
+availability?
+
+a) Appropriate performance of error checking for data entry 
+
+b) Encryption of databases 
+
+c) Managing and maintaining the level of SLA that defines downtime 
+
+d) Prohibiting the taking of external storage media out of the company without permission
+
+[Read Article](https://www.zevenet.com/blog/10-importance-of-information-security-audit/)
+
+**Answer: C**
+
+**Q62.** Which of the following is an explanation of SCM (Supply Chain Management)?
+
+a) Customer information collected through various channels is consolidated and utilized to 
+establish closer relationships with customers. 
+
+b) Employees’ skills and behavioral characteristics are managed for appropriate personnel 
+assignment and evaluation from the perspective of human resources strategy. 
+
+c) Intellectual assets of individuals, such as know-how and experience, are shared as 
+inspiration for creative work. 
+
+d) The sequence of business operations, from purchasing and production to sales and 
+distribution, is reexamined across companies in view of total optimization, so as to 
+minimize inventory and accelerate delivery. 
+
+SCM (Supply Chain Management) refers to the management of the flow of product supply
+from procurement of material and components up to manufacturing, distribution, and
+sales as a “supply chain” mainly in the manufacturing industry and distribution industry.
+Through sharing and management of information with related departments and other
+companies, the SCM system helps achieve total optimization of the business process (e.g.,
+shortening the time for delivery, reducing dead stock)
+
+[Read Article](https://www.investopedia.com/terms/s/scm.asp)
+
+**Answer: D**
