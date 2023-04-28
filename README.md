@@ -184,3 +184,22 @@ including those at dispersed locations.
 [Read Article](https://pinkelephant.co.uk/it-service-desk/local-centralised-virtual-service-desks/)
 
  **Answer: A** 
+ 
+ 
+ **Q59.** Which of the following is an appropriate activity for a system auditor? 
+ 
+a) The auditor moves forward with the preparation of an audit report because the initially 
+scheduled period finished in the middle of an investigation.
+
+b) The auditor orders improvements for problems that are found in the course of each 
+investigation. 
+
+c) The auditor points out items that need to be improved regarding problems found during 
+the investigation. 
+
+d) The auditor summarizes audit opinions for matters that have not been fully investigated, 
+on the basis of his or her past experience. 
+
+[Read Article](https://www.yourarticlelibrary.com/information-technology/process-of-information-system-audit-4-steps/10494)
+
+**Answer: C**
