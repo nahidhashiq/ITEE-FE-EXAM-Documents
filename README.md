@@ -304,6 +304,8 @@ handling of queries and claims, based on a customer database
 
 [Read Article](https://kissflow.com/workflow/bpm/business-process-management-overview/)
 
+![Screenshot 2023-04-29 034802](https://user-images.githubusercontent.com/125079085/235259885-e5b3ffe1-d6c7-445e-974e-635533ac9d4f.png)
+
 **Answer: C**
 
 
