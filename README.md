@@ -283,3 +283,27 @@ Hint: The running costs of a business are the amount of money that is regularly
 spent on things such as salaries, heating, lighting, and rent.
 
 **Answer: D**
+
+**Q64.** Which of the following is an explanation of BPM? 
+
+a) To achieve a reduction in inventory and a shortening of lead time by exchanging 
+information about a series of business processes, from the supply of components to the 
+sale of products, in real time 
+
+b) To achieve overall optimization of management resources through consolidated 
+information management of the main corporate activities, such as production, materials 
+flow, sales, finance, and human affairs 
+
+c) To incorporate the management cycle of analysis, design, execution, and improvement 
+into business processes in order to continuously execute improvement and revision of 
+business processes 
+
+d) To perform consistent management of business processes that concern the customer, 
+which include not only the sales of products but also maintenance service and the 
+handling of queries and claims, based on a customer database
+
+[Read Article](https://kissflow.com/workflow/bpm/business-process-management-overview/)
+
+**Answer: C**
+
+
